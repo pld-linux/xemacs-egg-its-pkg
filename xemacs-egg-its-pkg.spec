@@ -2,7 +2,7 @@ Summary:	Wnn (4.2 and 6) support. SJ3 support
 Summary(pl):	Wnn (4.2 and 6) support. SJ3 support
 Name:		xemacs-egg-its-pkg
 %define 	srcname	egg-its
-Version:	1.25
+Version:	1.26
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
