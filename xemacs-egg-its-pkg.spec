@@ -2,12 +2,12 @@ Summary:	Wnn (4.2 and 6) support, SJ3 support
 Summary(pl):	Obs³uga Wnn (4.2 i 6) oraz SJ3
 Name:		xemacs-egg-its-pkg
 %define 	srcname	egg-its
-Version:	1.26
-Release:	3
+Version:	1.27
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	a69b09fedc9aee8422ed7ed35b6649eb
+# Source0-md5:	6027d90327043f918d8a4ea3143ae7d2
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
