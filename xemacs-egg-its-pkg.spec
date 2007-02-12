@@ -1,5 +1,5 @@
 Summary:	Wnn (4.2 and 6) support, SJ3 support
-Summary(pl):	Obs≥uga Wnn (4.2 i 6) oraz SJ3
+Summary(pl.UTF-8):   Obs≈Çuga Wnn (4.2 i 6) oraz SJ3
 Name:		xemacs-egg-its-pkg
 %define 	srcname	egg-its
 Version:	1.27
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Wnn (4.2 and 6) support, SJ3 support.
 
-%description -l pl
-Obs≥uga Wnn (4.2 i 6) oraz SJ3.
+%description -l pl.UTF-8
+Obs≈Çuga Wnn (4.2 i 6) oraz SJ3.
 
 %prep
 %setup -q -c
