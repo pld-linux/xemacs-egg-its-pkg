@@ -1,5 +1,5 @@
 Summary:	Wnn (4.2 and 6) support, SJ3 support
-Summary(pl.UTF-8):   Obsługa Wnn (4.2 i 6) oraz SJ3
+Summary(pl.UTF-8):	Obsługa Wnn (4.2 i 6) oraz SJ3
 Name:		xemacs-egg-its-pkg
 %define 	srcname	egg-its
 Version:	1.27
